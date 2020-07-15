@@ -49,4 +49,4 @@ This is a full-text searchable bilingual glossary (Sanskrit and Chinese) of comm
 This is a web-based digital tool which can extract key Buddhist terms from a Chinese text entered by users and suggest their relevant English translations and definitions.
 
 ### Contact Me
-If you have any questions about the my web tools, please contact me at siusaiyau@gmail.com.
+If you have any questions about the my web tools, please contact me at saiyausiu@gmail.com.
