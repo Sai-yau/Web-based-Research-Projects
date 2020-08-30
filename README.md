@@ -21,9 +21,6 @@ This is an AI-driven interactive online dictionary, providing users with a trili
 - **AI-powered Tangut Character Classifier (AI西夏文字翻譯器) - 2019**: 
 This digital tool which can be used on portable devices helps recognise and classify characters in excavated Tangut manuscripts with Chinese and English translation of the characters.
 
-- **Colourisation and 3D Rendering of Images of Old Hong Kong (舊香港照片彩色化及立體化) - 2019**: 
-To foster public education in history, this project aims to restore images of old Hong Kong with AI-driven colourisation and 3D rendering techniques.
-
 - **Toolkit for Customisable Social Network Analysis in the Three Kingdoms Period (可自訂三國時代社會網絡分析系統) - 2019**: 
 This toolkit offers multifunctional analysis of social relationships among political figures in the Three Kingdoms period (220-280) based on texts imported by users.
 
